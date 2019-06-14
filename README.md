@@ -1,4 +1,4 @@
-#Telerik for Xamarin UI -- CalendarTest3#
+#Telerik for Xamarin UI CalendarTest3#
 Working with Telerik Tech Support attempting to determine why the RadCalendar ViewMode="Day" will not scroll vertically.
 
 
